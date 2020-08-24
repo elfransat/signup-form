@@ -1,0 +1,70 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: green;
+  font-family: "Raleway";
+  margin-top: 40px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+#container {
+  margin: 0 auto;
+  width: 30%;
+  border: white 1px solid;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: white;
+  text-align: center;
+}
+
+#container form {
+  padding: 20px;
+  text-align: left;
+  margin: 0;
+  text-align: center;
+}
+
+#center {
+  text-align: left;
+}
+
+#container form .form {
+  margin: 10px 0px 5px 0px;
+  width: 100%;
+  color: gray;
+  font-size: 12px;
+}
+
+#container form .text-area {
+  margin: 0px 0px 20px 0px;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid gray;
+  font-size: 24px;
+  color: black;
+}
+#container form .buttoner {
+  padding: 10px;
+  font-size: 18px;
+  background-color: orange;
+  color: white;
+  border: orange 1px solid;
+  border-radius: 5px;
+  width: 80%;
+  text-align: center;
+}
+
+#container .terms {
+  font-size: 12px;
+}
+
+.account {
+  margin: 20px 0px;
+  text-align: center;
+}
